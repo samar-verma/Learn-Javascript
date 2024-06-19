@@ -1,0 +1,11 @@
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    background-color: rgb(170, 17, 17);
+    border-radius: 6px;
+};
+
+
+
