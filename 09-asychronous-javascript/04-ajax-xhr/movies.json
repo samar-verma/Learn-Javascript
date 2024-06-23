@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ironman",
+        "genre": "Action"
+    },
+    {
+        "name": "Intersteller",
+        "genre": "Sci-fi"
+    },
+    {
+        "name": "Hera pheri",
+        "genre": "Comedy"
+    },
+    {
+        "name": "Inception",
+        "genre": "Thriller"
+    },
+    {
+        "name": "Titanic",
+        "genre": "Romance"
+    },
+    {
+        "name": "Dhoom",
+        "genre": "Crime"
+    }
+]
